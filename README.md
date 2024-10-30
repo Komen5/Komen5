@@ -1,4 +1,5 @@
-- 👋 Hello 🤗,
+##  💫 About me 💫
+- 👋 Wagwaan,
 - 😄 Augustine Komen, Data Scientist and Geospatial guru here 🤗
 - 👀 I’m interested in spatial data analysis, machine learning, and environmental sustainability.
 - 🌱 I’m currently learning advanced machine learning algorithms and improving my skills in Python 📈
