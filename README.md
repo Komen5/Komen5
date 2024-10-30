@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I once mapped the entire migration route of a herd of elephants using satellite imagery and machine learning algorithms!😎
 
+## 🛠️ Tech Stack
