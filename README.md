@@ -15,7 +15,7 @@
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /> <img height=50 
-src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /> <img height=50 
+src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" /> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-dark.svg" width="50"></a> <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" width="50"></a> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" /> <img height=50 
