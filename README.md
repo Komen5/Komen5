@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
  
- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 
+ <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" /> <img height=50 
 src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" /> <img height=50 
